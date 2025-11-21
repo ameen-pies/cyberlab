@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔐 CyberSec Platform
 
 Enterprise-grade cybersecurity simulation platform with MFA authentication and encryption demonstrations.
